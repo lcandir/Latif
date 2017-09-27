@@ -1,0 +1,3 @@
+# Tez Çalışmaları
+## Yapılacaklar
+## Yapılanlar
